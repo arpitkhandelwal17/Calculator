@@ -1,0 +1,23 @@
+html,body{
+    background-color: gray;
+}
+.container{
+    text-align: center;
+    margin: 50px;
+}
+button{
+    background-color: aqua;
+    /* size: 205px; */
+    /* font-size: large; */
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+    font-size: 40px;
+}
+#display{
+    width: 420px;
+    height: 55px;
+    background-color: bisque;
+    border-radius: 15px;
+    font-size: 35px;
+}
